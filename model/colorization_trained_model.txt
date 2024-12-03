@@ -1,0 +1,3 @@
+Due to large file size, I cannot upload the model on github
+Therefore, here is the link that you can access to download three files there and paste inside "model" folder:
+https://drive.google.com/drive/folders/1Z6jt_LGsXuHHB7Q_bqtG-Moh6KdadLu1?usp=share_link
